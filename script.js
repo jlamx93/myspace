@@ -129,7 +129,7 @@ class InstantMessenger extends React.Component {
 
     event => {
       this.setState({ value: event.target.value });
-    });this.state = { chatName: "XxAZNxKidZxX", screenName: "oOLilsiGgyFweNdOo", data: [], value: "" };}
+    });this.state = { chatName: "XxaZN pRyDe 408xX", screenName: "oOLil siGgy FweNdOo", data: [], value: "" };}
 
   render() {
     const { data, chatName, screenName, value } = this.state;
